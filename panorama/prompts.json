@@ -1,0 +1,780 @@
+[
+ {
+  "name": "p01_meadow",
+  "id": "p01_meadow",
+  "base": "wide panoramic photo of a green alpine meadow in late afternoon, distant snowy peaks",
+  "objects": [
+   {
+    "phrase": "a red vintage car on the far left",
+    "query": "a red car",
+    "head": "car",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red vintage car"
+   },
+   {
+    "phrase": "a white hot air balloon in the middle",
+    "query": "a hot air balloon",
+    "head": "balloon",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a white hot air balloon"
+   },
+   {
+    "phrase": "a yellow tent on the far right",
+    "query": "a tent",
+    "head": "tent",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a yellow tent"
+   }
+  ]
+ },
+ {
+  "name": "p02_snowfield",
+  "id": "p02_snowfield",
+  "base": "wide panoramic photo of a snowy plain under a pale winter sky, distant pine forest",
+  "objects": [
+   {
+    "phrase": "a brown horse on the far left",
+    "query": "a horse",
+    "head": "horse",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a brown horse"
+   },
+   {
+    "phrase": "a red telephone booth on the right",
+    "query": "a telephone booth",
+    "head": "booth",
+    "nominal": 0.7,
+    "position": "right",
+    "count": 1,
+    "name": "a red telephone booth"
+   }
+  ]
+ },
+ {
+  "name": "p03_desert",
+  "id": "p03_desert",
+  "base": "wide panoramic photo of a flat desert at dusk, dry sand, distant mesas, clear sky",
+  "objects": [
+   {
+    "phrase": "a blue motorcycle on the left",
+    "query": "a motorcycle",
+    "head": "motorcycle",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "a blue motorcycle"
+   },
+   {
+    "phrase": "a giraffe in the middle",
+    "query": "a giraffe",
+    "head": "giraffe",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a giraffe"
+   },
+   {
+    "phrase": "a wooden windmill on the far right",
+    "query": "a windmill",
+    "head": "windmill",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a wooden windmill"
+   }
+  ]
+ },
+ {
+  "name": "p04_beach",
+  "id": "p04_beach",
+  "base": "wide panoramic photo of a quiet sandy beach at golden hour, calm sea, clear sky",
+  "objects": [
+   {
+    "phrase": "a black grand piano on the far left",
+    "query": "a piano",
+    "head": "piano",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a black grand piano"
+   },
+   {
+    "phrase": "a yellow school bus in the middle",
+    "query": "a school bus",
+    "head": "bus",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a yellow school bus"
+   },
+   {
+    "phrase": "an elephant on the far right",
+    "query": "an elephant",
+    "head": "elephant",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "an elephant"
+   }
+  ]
+ },
+ {
+  "name": "p05_lake",
+  "id": "p05_lake",
+  "base": "wide panoramic photo of a calm mountain lake at sunrise, pebble shore, pine-covered hills",
+  "objects": [
+   {
+    "phrase": "a red fire truck on the far left",
+    "query": "a fire truck",
+    "head": "truck",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red fire truck"
+   },
+   {
+    "phrase": "two zebras on the right",
+    "query": "a zebra",
+    "head": "zebras",
+    "nominal": 0.7,
+    "position": "right",
+    "count": 2,
+    "name": "two zebras"
+   }
+  ]
+ },
+ {
+  "name": "p06_street",
+  "id": "p06_street",
+  "base": "wide panoramic photo of a quiet city street at dusk, brick buildings, wet asphalt",
+  "objects": [
+   {
+    "phrase": "a brown cow on the far left",
+    "query": "a cow",
+    "head": "cow",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a brown cow"
+   },
+   {
+    "phrase": "a green tractor in the middle",
+    "query": "a tractor",
+    "head": "tractor",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a green tractor"
+   },
+   {
+    "phrase": "a giant teddy bear on the far right",
+    "query": "a teddy bear",
+    "head": "bear",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a giant teddy bear"
+   }
+  ]
+ },
+ {
+  "name": "p07_lavender",
+  "id": "p07_lavender",
+  "base": "wide panoramic photo of a lavender field in summer, rows of purple flowers, blue sky",
+  "objects": [
+   {
+    "phrase": "a black motorcycle on the left",
+    "query": "a motorcycle",
+    "head": "motorcycle",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "a black motorcycle"
+   },
+   {
+    "phrase": "two brown horses on the far right",
+    "query": "a horse",
+    "head": "horses",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 2,
+    "name": "two brown horses"
+   }
+  ]
+ },
+ {
+  "name": "p08_saltflat",
+  "id": "p08_saltflat",
+  "base": "wide panoramic photo of a white salt flat under a clear blue sky, distant mountains",
+  "objects": [
+   {
+    "phrase": "a red armchair on the far left",
+    "query": "an armchair",
+    "head": "armchair",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red armchair"
+   },
+   {
+    "phrase": "a yellow taxi in the middle",
+    "query": "a taxi",
+    "head": "taxi",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a yellow taxi"
+   },
+   {
+    "phrase": "a giraffe on the far right",
+    "query": "a giraffe",
+    "head": "giraffe",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a giraffe"
+   }
+  ]
+ },
+ {
+  "name": "p09_autumn_road",
+  "id": "p09_autumn_road",
+  "base": "wide panoramic photo of a country road through an autumn forest, orange and yellow leaves, soft light",
+  "objects": [
+   {
+    "phrase": "an elephant on the far left",
+    "query": "an elephant",
+    "head": "elephant",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "an elephant"
+   },
+   {
+    "phrase": "a red mailbox in the middle",
+    "query": "a mailbox",
+    "head": "mailbox",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a red mailbox"
+   },
+   {
+    "phrase": "a white van on the far right",
+    "query": "a van",
+    "head": "van",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a white van"
+   }
+  ]
+ },
+ {
+  "name": "p10_ridge",
+  "id": "p10_ridge",
+  "base": "wide panoramic photo of a snowy mountain ridge on a clear day, deep blue sky",
+  "objects": [
+   {
+    "phrase": "a red helicopter on the left",
+    "query": "a helicopter",
+    "head": "helicopter",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "a red helicopter"
+   },
+   {
+    "phrase": "a brown camel on the far right",
+    "query": "a camel",
+    "head": "camel",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a brown camel"
+   }
+  ]
+ },
+ {
+  "name": "p11_terraces",
+  "id": "p11_terraces",
+  "base": "wide panoramic photo of green rice terraces on a hillside, misty morning",
+  "objects": [
+   {
+    "phrase": "a red telephone booth on the far left",
+    "query": "a telephone booth",
+    "head": "booth",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red telephone booth"
+   },
+   {
+    "phrase": "a black horse in the middle",
+    "query": "a horse",
+    "head": "horse",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a black horse"
+   },
+   {
+    "phrase": "a yellow hot air balloon on the far right",
+    "query": "a hot air balloon",
+    "head": "balloon",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a yellow hot air balloon"
+   }
+  ]
+ },
+ {
+  "name": "p12_harbour",
+  "id": "p12_harbour",
+  "base": "wide panoramic photo of a small fishing harbour on a calm morning, stone quay, gentle sea",
+  "objects": [
+   {
+    "phrase": "a red double-decker bus on the far left",
+    "query": "a double-decker bus",
+    "head": "bus",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red double-decker bus"
+   },
+   {
+    "phrase": "a white horse in the middle",
+    "query": "a horse",
+    "head": "horse",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a white horse"
+   },
+   {
+    "phrase": "a wooden windmill on the far right",
+    "query": "a windmill",
+    "head": "windmill",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a wooden windmill"
+   }
+  ]
+ },
+ {
+  "name": "p13_savanna",
+  "id": "p13_savanna",
+  "base": "wide panoramic photo of an african savanna at sunset, golden grass, acacia trees",
+  "objects": [
+   {
+    "phrase": "a yellow school bus on the far left",
+    "query": "a school bus",
+    "head": "bus",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a yellow school bus"
+   },
+   {
+    "phrase": "a white lighthouse in the middle",
+    "query": "a lighthouse",
+    "head": "lighthouse",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a white lighthouse"
+   },
+   {
+    "phrase": "a blue pickup truck on the far right",
+    "query": "a pickup truck",
+    "head": "truck",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a blue pickup truck"
+   }
+  ]
+ },
+ {
+  "name": "p14_park",
+  "id": "p14_park",
+  "base": "wide panoramic photo of a city park in spring, green lawn, blooming cherry trees",
+  "objects": [
+   {
+    "phrase": "a red fire truck on the left",
+    "query": "a fire truck",
+    "head": "truck",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "a red fire truck"
+   },
+   {
+    "phrase": "a brown camel in the middle",
+    "query": "a camel",
+    "head": "camel",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a brown camel"
+   },
+   {
+    "phrase": "a black grand piano on the far right",
+    "query": "a piano",
+    "head": "piano",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a black grand piano"
+   }
+  ]
+ },
+ {
+  "name": "p15_canal",
+  "id": "p15_canal",
+  "base": "wide panoramic photo of a quiet canal in an old european town, stone bridges, calm water",
+  "objects": [
+   {
+    "phrase": "a giraffe on the far left",
+    "query": "a giraffe",
+    "head": "giraffe",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a giraffe"
+   },
+   {
+    "phrase": "a yellow hot air balloon on the right",
+    "query": "a hot air balloon",
+    "head": "balloon",
+    "nominal": 0.7,
+    "position": "right",
+    "count": 1,
+    "name": "a yellow hot air balloon"
+   }
+  ]
+ },
+ {
+  "name": "p16_prairie",
+  "id": "p16_prairie",
+  "base": "wide panoramic photo of an open prairie under a stormy sky, tall grass",
+  "objects": [
+   {
+    "phrase": "a white lighthouse on the far left",
+    "query": "a lighthouse",
+    "head": "lighthouse",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a white lighthouse"
+   },
+   {
+    "phrase": "a yellow school bus in the middle",
+    "query": "a school bus",
+    "head": "bus",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a yellow school bus"
+   },
+   {
+    "phrase": "a green tractor on the far right",
+    "query": "a tractor",
+    "head": "tractor",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a green tractor"
+   }
+  ]
+ },
+ {
+  "name": "p17_coast",
+  "id": "p17_coast",
+  "base": "wide panoramic photo of a rocky coastline with crashing waves, overcast sky",
+  "objects": [
+   {
+    "phrase": "a red vintage car on the far left",
+    "query": "a red car",
+    "head": "car",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red vintage car"
+   },
+   {
+    "phrase": "a brown horse in the middle",
+    "query": "a horse",
+    "head": "horse",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a brown horse"
+   },
+   {
+    "phrase": "an orange tent on the far right",
+    "query": "a tent",
+    "head": "tent",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "an orange tent"
+   }
+  ]
+ },
+ {
+  "name": "p18_vineyard",
+  "id": "p18_vineyard",
+  "base": "wide panoramic photo of a vineyard on rolling hills at golden hour, rows of grapevines",
+  "objects": [
+   {
+    "phrase": "an elephant on the left",
+    "query": "an elephant",
+    "head": "elephant",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "an elephant"
+   },
+   {
+    "phrase": "a red helicopter on the far right",
+    "query": "a helicopter",
+    "head": "helicopter",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a red helicopter"
+   }
+  ]
+ },
+ {
+  "name": "p19_tundra",
+  "id": "p19_tundra",
+  "base": "wide panoramic photo of arctic tundra with patches of snow, low grey clouds",
+  "objects": [
+   {
+    "phrase": "a yellow taxi on the far left",
+    "query": "a taxi",
+    "head": "taxi",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a yellow taxi"
+   },
+   {
+    "phrase": "a black grand piano in the middle",
+    "query": "a piano",
+    "head": "piano",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a black grand piano"
+   },
+   {
+    "phrase": "two zebras on the far right",
+    "query": "a zebra",
+    "head": "zebras",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 2,
+    "name": "two zebras"
+   }
+  ]
+ },
+ {
+  "name": "p20_village",
+  "id": "p20_village",
+  "base": "wide panoramic photo of a cobblestone village square on a sunny afternoon, old stone houses",
+  "objects": [
+   {
+    "phrase": "a brown cow on the far left",
+    "query": "a cow",
+    "head": "cow",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a brown cow"
+   },
+   {
+    "phrase": "a white hot air balloon in the middle",
+    "query": "a hot air balloon",
+    "head": "balloon",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a white hot air balloon"
+   },
+   {
+    "phrase": "a green tractor on the far right",
+    "query": "a tractor",
+    "head": "tractor",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a green tractor"
+   }
+  ]
+ },
+ {
+  "name": "p21_pier",
+  "id": "p21_pier",
+  "base": "wide panoramic photo of a long wooden pier over a calm sea at dusk, pastel sky",
+  "objects": [
+   {
+    "phrase": "a red motorcycle on the far left",
+    "query": "a motorcycle",
+    "head": "motorcycle",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a red motorcycle"
+   },
+   {
+    "phrase": "a giraffe on the right",
+    "query": "a giraffe",
+    "head": "giraffe",
+    "nominal": 0.7,
+    "position": "right",
+    "count": 1,
+    "name": "a giraffe"
+   }
+  ]
+ },
+ {
+  "name": "p22_blacksand",
+  "id": "p22_blacksand",
+  "base": "wide panoramic photo of a black sand beach under a grey sky, dark basalt cliffs",
+  "objects": [
+   {
+    "phrase": "a yellow school bus on the far left",
+    "query": "a school bus",
+    "head": "bus",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a yellow school bus"
+   },
+   {
+    "phrase": "a white horse in the middle",
+    "query": "a horse",
+    "head": "horse",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a white horse"
+   },
+   {
+    "phrase": "a red telephone booth on the far right",
+    "query": "a telephone booth",
+    "head": "booth",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a red telephone booth"
+   }
+  ]
+ },
+ {
+  "name": "p23_sunflowers",
+  "id": "p23_sunflowers",
+  "base": "wide panoramic photo of a sunflower field in summer, blue sky with small clouds",
+  "objects": [
+   {
+    "phrase": "a blue vintage car on the far left",
+    "query": "a blue car",
+    "head": "car",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a blue vintage car"
+   },
+   {
+    "phrase": "two elephants on the right",
+    "query": "an elephant",
+    "head": "elephants",
+    "nominal": 0.7,
+    "position": "right",
+    "count": 2,
+    "name": "two elephants"
+   }
+  ]
+ },
+ {
+  "name": "p24_frozen_lake",
+  "id": "p24_frozen_lake",
+  "base": "wide panoramic photo of a frozen lake in winter, snow-covered shore, pale blue sky",
+  "objects": [
+   {
+    "phrase": "a red armchair on the left",
+    "query": "an armchair",
+    "head": "armchair",
+    "nominal": 0.3,
+    "position": "left",
+    "count": 1,
+    "name": "a red armchair"
+   },
+   {
+    "phrase": "a brown camel in the middle",
+    "query": "a camel",
+    "head": "camel",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a brown camel"
+   },
+   {
+    "phrase": "a yellow taxi on the far right",
+    "query": "a taxi",
+    "head": "taxi",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 1,
+    "name": "a yellow taxi"
+   }
+  ]
+ },
+ {
+  "name": "p25_canyon",
+  "id": "p25_canyon",
+  "base": "wide panoramic photo of a red rock canyon at midday, layered cliffs, blue sky",
+  "objects": [
+   {
+    "phrase": "a white lighthouse on the far left",
+    "query": "a lighthouse",
+    "head": "lighthouse",
+    "nominal": 0.1,
+    "position": "far left",
+    "count": 1,
+    "name": "a white lighthouse"
+   },
+   {
+    "phrase": "a giant teddy bear in the middle",
+    "query": "a teddy bear",
+    "head": "bear",
+    "nominal": 0.5,
+    "position": "middle",
+    "count": 1,
+    "name": "a giant teddy bear"
+   },
+   {
+    "phrase": "two red umbrellas on the far right",
+    "query": "an umbrella",
+    "head": "umbrellas",
+    "nominal": 0.9,
+    "position": "far right",
+    "count": 2,
+    "name": "two red umbrellas"
+   }
+  ]
+ }
+]

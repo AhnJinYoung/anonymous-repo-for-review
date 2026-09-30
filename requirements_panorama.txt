@@ -1,0 +1,12 @@
+# Environment for panorama/ (Python 3.10 / 3.11, CUDA 12.1). Versions used for the paper:
+torch==2.4.1            # +cu121 wheel
+diffusers==0.35.2
+transformers==4.56.2
+accelerate==1.15.0
+sentencepiece==0.2.2    # T5 tokenizer (SD3)
+protobuf
+safetensors
+huggingface_hub==0.36.2
+numpy                   # 2.x
+scipy
+pillow

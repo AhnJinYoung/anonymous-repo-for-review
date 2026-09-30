@@ -1,0 +1,14 @@
+# Separate environment for video/ (LTX-2.5; Python 3.11, CUDA 12.8). Versions used for the paper:
+torch==2.8.0            # +cu128 wheel
+# diffusers from source at commit e0abab83 (0.41.0.dev0; provides LTX2ConditionPipeline and the LTX-2 components):
+#   pip install "git+https://github.com/huggingface/diffusers@e0abab83"
+transformers==5.17.0
+accelerate==1.15.0
+huggingface_hub==1.33.0
+sentencepiece
+safetensors
+numpy
+pillow
+imageio
+imageio-ffmpeg          # mp4 writing
+# Model: Lightricks/LTX-2.5-Diffusers (distilled transformer; 8-sigma distilled schedule, CFG 1).
